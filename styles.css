@@ -1,0 +1,16 @@
+html{
+
+}
+
+body{
+
+}
+
+header{
+    background-color: red;
+}
+
+#header_text{
+    background-color: black;
+    float: left;
+}
