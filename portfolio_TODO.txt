@@ -1,0 +1,25 @@
+HTML / Document Structure
+
+1) Landing page
+- sellable language "hi i am..."
+- Quick and easy to read font
+- Top nav with page jump to
+
+2) About me 
+- picture 
+- summary of career and interests
+- Skills, things i know
+- resume
+
+3) Projects
+- pdx code guild Projects
+- personal side Projects
+
+
+4) Contact / Links
+- linkedin
+- email
+- github
+- code kata
+
+ 
